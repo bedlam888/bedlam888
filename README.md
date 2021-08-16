@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bedlam888
 - 👀 I’m interested in java and android mobile development projects
-- 🌱 I’m currently learning general computer science, and java
+- 🌱 I’m currently studying computer science, and learning Java
 - 💞️ I’m looking to collaborate on api's and android studio projects
 - 📫 How to reach me .. you can reach me through my cell 209 247-6198
 
